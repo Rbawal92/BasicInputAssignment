@@ -52,9 +52,9 @@ ageDifference = age - childAge;
 
 ## Author Information
 
-**Name:** Raymond [Bawal III]
+**Name:** Raymond Bawal III
 **Course:** ITCS 2530 - C++
-**Instructor:** Professor [Koss]
+**Instructor:** Professor Koss
 **Date** October 17, 2025
 **Language** C++
 **Github Repository**
